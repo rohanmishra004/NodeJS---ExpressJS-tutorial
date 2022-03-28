@@ -84,3 +84,29 @@
 20220328	22:41:52 	a23db973-7926-4162-96ca-e17c5064bb2a 	GET	undefined	/employees/1
 
 20220329	01:08:52 	05ce9fd8-91d8-4769-80ca-4c67103d99c9 	GET	undefined	/employees
+
+20220329	01:50:16 	6eb989df-0537-4ad2-9a5f-c522446afffc 	GET	undefined	/employees
+
+20220329	01:50:40 	1ecc98de-fdff-43ec-bf93-285d388641e0 	POST	undefined	/employees
+
+20220329	01:50:48 	475c2e80-8d2b-4112-8a9c-af72cb7cafd6 	GET	undefined	/employees
+
+20220329	01:51:00 	0d108401-585b-43c3-a259-037dbbcca43c 	DELETE	undefined	/employees/3
+
+20220329	01:52:25 	e2931db4-7b62-42b0-a936-32af30c36ec5 	PUT	undefined	/employees
+
+20220329	01:53:12 	b370e99b-05f5-490c-9e9b-c0ff55b17b27 	DELETE	undefined	/employees
+
+20220329	01:54:26 	ce16464f-f36d-4c7d-9eaa-f69e797e3cd7 	DELETE	undefined	/employees
+
+20220329	01:55:03 	72168d82-2e97-414b-9d66-376345f6d75c 	GET	undefined	/employees
+
+20220329	01:55:14 	5593a865-399c-4f1e-b7cd-affc85fcc5ce 	DELETE	undefined	/employees
+
+20220329	01:55:34 	e3ded463-a01e-4427-bb7a-0eeb32a0b06e 	GET	undefined	/employees/1
+
+20220329	01:55:38 	dadf1750-d9a7-4d31-b28a-ff793b55f698 	GET	undefined	/employees/1
+
+20220329	01:56:12 	3b55e538-b69b-4e5e-9dcb-31d11496867a 	GET	undefined	/employees/1
+
+20220329	01:56:19 	0308a66e-7fb4-4769-8d46-cb9464e2e27b 	GET	undefined	/employees
